@@ -1,0 +1,1 @@
+-c arduino -p m328p -P COM5 -b 115200 -U flash:w:"TransistorTester.hex":a -U eeprom:w:"mega328_color_kit\TransistorTester.eep":a 
